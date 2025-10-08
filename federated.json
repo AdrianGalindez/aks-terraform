@@ -1,7 +1,7 @@
 {
   "name": "github-actions-gh-actions-oidc-app-main",
   "issuer": "https://token.actions.githubusercontent.com",
-  "subject": "repo:galindez/mi-app:ref:refs/heads/main",
+  "subject": "repo:refs/heads/main",
   "description": "Permite a GitHub Actions autenticarse via OIDC",
   "audiences": [
     "api://AzureADTokenExchange"
